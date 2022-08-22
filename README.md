@@ -2,5 +2,5 @@
 
 Projeto criado através de HTML e CSS
 
-DESAFIO:
+Desafio:
 https://splendorous-unicorn-94743b.netlify.app/
